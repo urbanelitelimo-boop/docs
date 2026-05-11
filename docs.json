@@ -7,7 +7,10 @@
     "light": "#ffffff",
     "dark": "#003f83"
   },
-  "logo": "/images/LuxyMileslogovar1.svg",
+  "logo": {
+    "light": "/images/LuxyMileslogovar1.svg",
+    "dark": "/images/LuxyMIlesLogoBlack.svg"
+  },
   "favicon": "file:///Users/Abdullah/Downloads/Luxy20MIles20favicon.svg",
   "appearance": {
     "default": "dark"
