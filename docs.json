@@ -115,8 +115,13 @@
       "insurance-and-compliances",
       "terms-and-conditions",
       "disaster-management",
-      "sales-job-description",
-      "sales-dispatch-job-description"
+      {
+        "group": "Employees JD",
+        "pages": [
+          "sales-jd",
+          "dispatcher-jb"
+        ]
+      }
     ]
   }
 }
