@@ -98,9 +98,9 @@
       }
     ],
     "primary": {
-      "type": "button",
-      "label": "Employee portal",
-      "href": "https://dashboard.mintlify.com"
+      "type": "Button",
+      "label": "Go to Website"",
+      "href": "https://luxymiles.com.com"
     }
   },
   "footer": {
