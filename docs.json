@@ -1,0 +1,121 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Knowledge base",
+  "description": "Onboarding, employee handbook, HR guides, IT help, company policies, and department runbooks.",
+  "colors": {
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#003f83"
+  },
+  "favicon": "file:///Users/Abdullah/Downloads/Luxy20MIles20favicon.svg",
+  "icons": {
+    "library": "lucide"
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "contextual": {
+    "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
+  },
+  "navigation": {
+    "pages": [
+      "overview",
+      {
+        "group": "Fleets Knowledge",
+        "pages": [
+          "vehicle-category",
+          "special-features"
+        ]
+      },
+      {
+        "group": "Locations",
+        "pages": [
+          "operational-states",
+          "county-state-wise",
+          "city-town-county-wise",
+          {
+            "group": "Top Destinations (State-wise)",
+            "pages": []
+          },
+          "airports-and-surrounding-towns",
+          {
+            "group": "Interstate Tolls",
+            "pages": [
+              "usa",
+              "canada",
+              "uk",
+              "mexico"
+            ]
+          }
+        ]
+      },
+      {
+        "group": "Services",
+        "pages": [
+          "airport-transfers",
+          "city-to-city",
+          "hourly-ride",
+          "special-events",
+          "cruise"
+        ]
+      },
+      {
+        "group": "Airports KB",
+        "pages": [
+          "terminals",
+          "flight-tracking",
+          "drive-meet-and-greet",
+          "flight-disruption-management"
+        ]
+      },
+      {
+        "group": "Booking & Pricing Calculation",
+        "pages": [
+          "standard-sedan",
+          "luxury-sedan",
+          "business-class",
+          "suv",
+          "sprinter-van",
+          "stretch-limousine",
+          "busses"
+        ]
+      },
+      "response-templates",
+      "insurance-and-compliances",
+      "terms-and-conditions",
+      "disaster-management",
+      "sales-job-description",
+      "sales-dispatch-job-description"
+    ]
+  },
+  "logo": "/images/LuxyMileslogovar1.svg",
+  "navbar": {
+    "links": [
+      {
+        "href": "https://luxymiles.com",
+        "label": "Got to Website"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Employee portal",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/yourcompany",
+      "linkedin": "https://linkedin.com/company/yourcompany"
+    }
+  },
+  "background": {
+    "image": "/images/LuxyMileslogovar1.svg"
+  },
+  "fonts": {
+    "family": "Roboto"
+  },
+  "appearance": {
+    "default": "dark"
+  }
+}
