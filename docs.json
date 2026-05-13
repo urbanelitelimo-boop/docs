@@ -61,14 +61,25 @@
       {
         "group": "Locations",
         "pages": [
-          "operational-states",
-          "county-state-wise",
-          "city-town-county-wise",
           {
-            "group": "Top Destinations (State-wise)",
-            "pages": []
+            "group": "Operational States",
+            "pages": [
+              "new-york",
+              "connecticut"
+            ]
           },
-          "airports-and-surrounding-towns",
+          {
+            "group": "Top Areas (We operate in)",
+            "pages": [
+              "newyork"
+            ]
+          },
+          {
+            "group": "Airports",
+            "pages": [
+              "jfk-airport"
+            ]
+          },
           {
             "group": "Interstate Tolls",
             "pages": [
