@@ -111,15 +111,6 @@
         ]
       },
       {
-        "group": "Airports KB",
-        "pages": [
-          "terminals",
-          "flight-tracking",
-          "drive-meet-and-greet",
-          "flight-disruption-management"
-        ]
-      },
-      {
         "group": "Booking & Pricing Calculation",
         "pages": [
           "standard-sedan",
