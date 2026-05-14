@@ -141,13 +141,6 @@
         ]
       },
       {
-        "group": "Job Descriptions ",
-        "pages": [
-          "sales-jd",
-          "dispatcher-jb"
-        ]
-      },
-      {
         "group": "Safety & Compliance",
         "pages": [
           "office-rule-book",
@@ -160,6 +153,13 @@
               "data-privacy-policy"
             ]
           }
+        ]
+      },
+      {
+        "group": "Job Descriptions ",
+        "pages": [
+          "sales-jd",
+          "dispatcher-jb"
         ]
       }
     ]
