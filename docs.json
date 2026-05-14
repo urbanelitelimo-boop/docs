@@ -122,18 +122,46 @@
           "busses"
         ]
       },
-      "response-templates",
-      "insurance-and-compliances",
-      "terms-and-conditions",
-      "disaster-management",
       {
-        "group": "Employees ",
+        "group": "Response Templates",
+        "pages": [
+          "intro-messages",
+          "email-signatures",
+          "closing-templates",
+          "followup-temp"
+        ]
+      },
+      {
+        "group": "FAQs",
+        "pages": [
+          "general-faqs",
+          "problems-and-resolutions",
+          "unique-cases-and-resolutions",
+          "disaster-management"
+        ]
+      },
+      {
+        "group": "Job Descriptions ",
         "pages": [
           "sales-jd",
           "dispatcher-jb"
         ]
       },
-      "unique-cases-and-handling"
+      {
+        "group": "Safety & Compliance",
+        "pages": [
+          "office-rule-book",
+          "sensitive-data-handling",
+          {
+            "group": "Terms & Conditions",
+            "pages": [
+              "customert-and-c",
+              "drivers-terms-and-conditions",
+              "data-privacy-policy"
+            ]
+          }
+        ]
+      }
     ]
   }
 }
