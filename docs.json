@@ -88,47 +88,80 @@
             "pages": [
               {
                 "group": "New York",
-                "pages": []
+                "pages": [
+                  "john-f-kennedy-international-airport-jfk",
+                  "la-guardia-airport-lga",
+                  "westchester-county-airport",
+                  "long-island-mac-arthur-airport"
+                ]
               },
               {
                 "group": "New Jersey",
-                "pages": []
+                "pages": [
+                  "newark-liberty-international-airport"
+                ]
               },
               {
                 "group": "Connecticut",
-                "pages": []
+                "pages": [
+                  "bradley-international-airport",
+                  "tweed-new-haven-airport"
+                ]
               },
               {
                 "group": "Massachusetts",
-                "pages": []
+                "pages": [
+                  "logan-international-airport-boston"
+                ]
               },
               {
                 "group": "California",
-                "pages": []
+                "pages": [
+                  "los-angeles-international-airport-lax",
+                  "john-wayne-airport-sna"
+                ]
               },
               {
                 "group": "Georgia",
-                "pages": []
+                "pages": [
+                  "hartsfield-jackson-atlanta-international-airport"
+                ]
               },
               {
                 "group": "DMV",
-                "pages": []
+                "pages": [
+                  "ronald-reagan-washington-national-airport-dca",
+                  "baltimore-washington-international-airport",
+                  "washington-dulles-international-airport"
+                ]
               },
               {
                 "group": "Pennsylvania",
-                "pages": []
+                "pages": [
+                  "philadelphia-international-airport"
+                ]
               },
               {
                 "group": "Texas",
-                "pages": []
+                "pages": [
+                  "dallas-fort-worth-international-airport",
+                  "george-bush-intercontinental-airport"
+                ]
               },
               {
                 "group": "Florida",
-                "pages": []
+                "pages": [
+                  "miami-international-airport-mia",
+                  "orlando-international-airport-mco",
+                  "tampa-international-airport-tpa"
+                ]
               },
               {
                 "group": "Illinois",
-                "pages": []
+                "pages": [
+                  "o-hare-international-airport-ord",
+                  "chicago-midway-international-airport"
+                ]
               }
             ]
           },
