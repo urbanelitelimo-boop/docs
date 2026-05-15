@@ -86,7 +86,50 @@
           {
             "group": "Airports",
             "pages": [
-              "jfk-airport"
+              {
+                "group": "New York",
+                "pages": []
+              },
+              {
+                "group": "New Jersey",
+                "pages": []
+              },
+              {
+                "group": "Connecticut",
+                "pages": []
+              },
+              {
+                "group": "Massachusetts",
+                "pages": []
+              },
+              {
+                "group": "California",
+                "pages": []
+              },
+              {
+                "group": "Georgia",
+                "pages": []
+              },
+              {
+                "group": "DMV",
+                "pages": []
+              },
+              {
+                "group": "Pennsylvania",
+                "pages": []
+              },
+              {
+                "group": "Texas",
+                "pages": []
+              },
+              {
+                "group": "Florida",
+                "pages": []
+              },
+              {
+                "group": "Illinois",
+                "pages": []
+              }
             ]
           },
           {
