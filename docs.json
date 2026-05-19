@@ -75,7 +75,8 @@
               "dmv-dc-maryland-virginia",
               "georgia",
               "texas"
-            ]
+            ],
+            "icon": "map-plus"
           },
           {
             "group": "Airports",
