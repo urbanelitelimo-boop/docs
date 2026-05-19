@@ -157,7 +157,8 @@
                   "chicago-midway-international-airport"
                 ]
               }
-            ]
+            ],
+            "icon": "plane"
           },
           {
             "group": "Interstate Tolls",
