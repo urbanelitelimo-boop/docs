@@ -56,7 +56,8 @@
         "pages": [
           "vehicle-category",
           "special-features"
-        ]
+        ],
+        "icon": "car"
       },
       {
         "group": "Locations",
@@ -168,9 +169,11 @@
               "canada",
               "uk",
               "mexico"
-            ]
+            ],
+            "icon": "route"
           }
-        ]
+        ],
+        "icon": "map-pin"
       },
       {
         "group": "Services",
@@ -180,7 +183,8 @@
           "hourly-ride",
           "special-events",
           "cruise"
-        ]
+        ],
+        "icon": "copy-check"
       },
       {
         "group": "Booking & Pricing Calculation",
