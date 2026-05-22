@@ -158,6 +158,13 @@
                   "o-hare-international-airport-ord",
                   "chicago-midway-international-airport"
                 ]
+              },
+              {
+                "group": "Rule Book (Airport)",
+                "pages": [
+                  "pickup",
+                  "drop-off"
+                ]
               }
             ],
             "icon": "plane"
