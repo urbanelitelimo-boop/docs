@@ -162,12 +162,18 @@
               {
                 "group": "Rule Book (Airport)",
                 "pages": [
-                  "drop-off",
                   {
                     "group": "Pick-up",
                     "pages": [
                       "pickup",
                       "scenarios"
+                    ]
+                  },
+                  {
+                    "group": "Drop-off",
+                    "pages": [
+                      "drop-off",
+                      "scenarios-1"
                     ]
                   }
                 ]
