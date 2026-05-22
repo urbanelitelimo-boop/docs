@@ -199,14 +199,14 @@
       {
         "group": "Booking & Pricing Calculation",
         "pages": [
+          "general-calculation",
           "standard-sedan",
           "luxury-sedan",
           "business-class",
           "suv",
           "sprinter-van",
           "stretch-limousine",
-          "busses",
-          "general-calculation"
+          "busses"
         ]
       },
       {
