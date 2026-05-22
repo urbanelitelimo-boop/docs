@@ -207,7 +207,8 @@
           "sprinter-van",
           "stretch-limousine",
           "busses"
-        ]
+        ],
+        "icon": "dollar-sign"
       },
       {
         "group": "Response Templates",
