@@ -181,16 +181,7 @@
             ],
             "icon": "plane"
           },
-          {
-            "group": "Interstate Tolls",
-            "pages": [
-              "usa",
-              "canada",
-              "uk",
-              "mexico"
-            ],
-            "icon": "route"
-          }
+          "interstate-tolls"
         ],
         "icon": "map-pin"
       },
