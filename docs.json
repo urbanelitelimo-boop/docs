@@ -79,7 +79,13 @@
                   "counties-1"
                 ]
               },
-              "new-jersey",
+              {
+                "group": "New Jersey",
+                "pages": [
+                  "new-jersey",
+                  "counties-2"
+                ]
+              },
               "massachusetts",
               "california",
               "florida",
