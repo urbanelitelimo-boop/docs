@@ -65,7 +65,13 @@
           {
             "group": "Operational States",
             "pages": [
-              "new-york",
+              {
+                "group": "New York",
+                "pages": [
+                  "new-york",
+                  "counties"
+                ]
+              },
               "connecticut",
               "new-jersey",
               "massachusetts",
