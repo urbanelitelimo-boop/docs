@@ -72,7 +72,13 @@
                   "counties"
                 ]
               },
-              "connecticut",
+              {
+                "group": "Connecticut",
+                "pages": [
+                  "connecticut",
+                  "counties-1"
+                ]
+              },
               "new-jersey",
               "massachusetts",
               "california",
