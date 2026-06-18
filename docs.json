@@ -114,7 +114,13 @@
                   "counties-5"
                 ]
               },
-              "pennsylvania",
+              {
+                "group": "Pennsylvania",
+                "pages": [
+                  "pennsylvania",
+                  "counties-6"
+                ]
+              },
               "dmv-dc-maryland-virginia",
               "georgia",
               "texas"
