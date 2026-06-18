@@ -100,7 +100,13 @@
                   "counties-4"
                 ]
               },
-              "florida",
+              {
+                "group": "Florida",
+                "pages": [
+                  "florida",
+                  "untitled-page"
+                ]
+              },
               "illinois",
               "pennsylvania",
               "dmv-dc-maryland-virginia",
