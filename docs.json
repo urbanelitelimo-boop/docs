@@ -93,7 +93,13 @@
                   "counties-3"
                 ]
               },
-              "california",
+              {
+                "group": "California",
+                "pages": [
+                  "california",
+                  "counties-4"
+                ]
+              },
               "florida",
               "illinois",
               "pennsylvania",
