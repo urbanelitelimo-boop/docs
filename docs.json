@@ -121,7 +121,13 @@
                   "counties-6"
                 ]
               },
-              "dmv-dc-maryland-virginia",
+              {
+                "group": "DMV",
+                "pages": [
+                  "dmv",
+                  "counties-7"
+                ]
+              },
               "georgia",
               "texas"
             ],
