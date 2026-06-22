@@ -128,8 +128,18 @@
                   "counties-7"
                 ]
               },
-              "georgia",
-              "texas"
+              {
+                "group": "Georgia",
+                "pages": [
+                  "georgia"
+                ]
+              },
+              {
+                "group": "Texas",
+                "pages": [
+                  "texas"
+                ]
+              }
             ],
             "icon": "map-plus"
           },
