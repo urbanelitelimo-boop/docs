@@ -267,7 +267,8 @@
         "pages": [
           "general-calculation",
           "sales-processes",
-          "followup-processes"
+          "followup-processes",
+          "dispatch-processes"
         ],
         "icon": "dollar-sign"
       },
