@@ -263,10 +263,11 @@
         "icon": "copy-check"
       },
       {
-        "group": "Booking & Pricing Calculation",
+        "group": "Booking Calculation & Processes",
         "pages": [
           "general-calculation",
-          "sales-processes"
+          "sales-processes",
+          "followup-processes"
         ],
         "icon": "dollar-sign"
       },
