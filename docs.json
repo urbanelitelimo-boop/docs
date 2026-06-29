@@ -263,13 +263,14 @@
         "icon": "copy-check"
       },
       {
-        "group": "Booking Calculation & Processes",
+        "group": "Sales & Dispatch Playbook",
         "pages": [
           "general-calculation",
           "sales-processes",
           "followup-processes",
           "dispatch-processes",
-          "after-sales-service"
+          "after-sales-service",
+          "communication-standards"
         ],
         "icon": "dollar-sign"
       },
