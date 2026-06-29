@@ -277,9 +277,15 @@
         "icon": "dollar-sign"
       },
       {
-        "group": "FAQs",
+        "group": "Scenarios & Resolutions",
         "pages": [
           "problems-and-resolutions",
+          "customer-email-handling"
+        ]
+      },
+      {
+        "group": "FAQs",
+        "pages": [
           "unique-cases-and-resolutions",
           "disaster-management"
         ]
