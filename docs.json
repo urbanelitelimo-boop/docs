@@ -265,7 +265,9 @@
       {
         "group": "Booking Types",
         "pages": [
-          "common-details"
+          "common-details",
+          "hourly-booking-details",
+          "round-trip-booking-details"
         ]
       },
       {
