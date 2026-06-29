@@ -263,6 +263,12 @@
         "icon": "copy-check"
       },
       {
+        "group": "Booking Types",
+        "pages": [
+          "common-details"
+        ]
+      },
+      {
         "group": "Sales & Dispatch Playbook",
         "pages": [
           "general-calculation",
