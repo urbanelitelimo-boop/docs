@@ -268,7 +268,8 @@
           "common-details",
           "hourly-booking-details",
           "round-trip-booking-details"
-        ]
+        ],
+        "icon": "circle-check"
       },
       {
         "group": "Sales & Dispatch Playbook",
@@ -293,7 +294,8 @@
           "sms-scripts",
           "sales-pharases-important",
           "difficult-scenarios"
-        ]
+        ],
+        "icon": "atom"
       },
       {
         "group": "FAQs",
@@ -302,7 +304,8 @@
           "vehicle-questions",
           "booking-questions",
           "disaster-management"
-        ]
+        ],
+        "icon": "message-circle-question-mark"
       },
       {
         "group": "Safety & Compliance",
@@ -317,14 +320,16 @@
               "data-privacy-policy"
             ]
           }
-        ]
+        ],
+        "icon": "shield-check"
       },
       {
         "group": "Job Descriptions ",
         "pages": [
           "sales-jd",
           "dispatcher-jb"
-        ]
+        ],
+        "icon": "network"
       }
     ]
   }
