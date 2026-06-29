@@ -266,6 +266,7 @@
         "group": "Sales & Dispatch Playbook",
         "pages": [
           "general-calculation",
+          "core-principles-cx-handling",
           "sales-processes",
           "followup-processes",
           "dispatch-processes",
@@ -274,15 +275,6 @@
           "communication-quanlity"
         ],
         "icon": "dollar-sign"
-      },
-      {
-        "group": "Response Templates",
-        "pages": [
-          "intro-messages",
-          "email-signatures",
-          "closing-templates",
-          "followup-temp"
-        ]
       },
       {
         "group": "FAQs",
